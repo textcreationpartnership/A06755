@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A la louange du serenissime roy, de la Grande Bretaigne Ode par le sieur de Mailliet gentilhomme François.</title>
+            <author>Maillet, Marc de.</author>
+         </titleStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A06755</idno><idno type="EEBO-CITATION">99840179</idno>
+  <idno type="VID">4654</idno>
+  <idno type="EEBO-PROQUEST">2240900383</idno>
+  <idno type="STC">STC 17198</idno>
+  <idno type="STC">ESTC S104441</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99840179e"/>
+            <note>(EEBO-TCP ; phase 2, no. A06755)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 4654)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 851:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A la louange du serenissime roy, de la Grande Bretaigne Ode par le sieur de Mailliet gentilhomme François.</title>
+                  <author>Maillet, Marc de.</author>
+               </titleStmt>
+               <extent>[30+] p.   </extent>
+               <publicationStmt>
+                  <publisher>Par George Purslowe,</publisher>
+                  <pubPlace>Imprimé a Londres :</pubPlace>
+                  <date>27 Septembre, 1617.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Signatures: pi¹ A-C⁴ D² +.</note>
+                  <note>Some print show-through; all after D2 lacking.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James --  I, --  King of England, 1566-1625 --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Odes, --  Latin language --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:4654:1"/>
+            <pb facs="tcp:4654:1"/>
+            <p>A LA LOVANGE DV SERENISSIME ROY, DE LA GRANDE <hi>Bretaigne.</hi>
+            </p>
+            <p>ODE</p>
+            <p>
+               <hi>Par le sieur de Mailliet gentilhomme François.</hi>
+            </p>
+            <p>
+               <hi>Imprímé a</hi> Londres 27. <hi>Septembre,</hi> 1617. <hi>Par</hi> George Purslowe.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:4654:2"/>
+            <pb facs="tcp:4654:2"/>
+            <head>
+               <hi>AV ROY</hi> de la Grande Bretaigne.</head>
+            <opener>
+               <salute>SIRE:</salute>
+            </opener>
+            <p>LA Renommee, qui vous dit aussi bien le Roy des esprits que vous l'estes des corps, m'a fait venir du bout de la Gascoigne vers uostre Maiestè, &amp; le bon accueil, dont vous auez iadis honnorè vn rare gascon, a contribuè beaucoup a la naissance de la resolution de mon voyage. Sa maison &amp; la mienne sont fort proches, &amp; toute la Frāce croit que ma poesie soit encore plus uoi sine de la sienne. La Royne <hi>Marguerite,</hi> qui a este huict ans ma maistresse, estoit bien ferme en ceste opinion, &amp; Monsieur le Prince de Genuille le vous a confirmè dans vne lettre qu'il a escrite a vostre Maiestè en ma faueur: ceste douce gloire, que l'intelligence me fait receuoir de tant de bouches, m'a facilement persuadè que vous ne cherirez pas moings mes escrits que les francoises Ma<g ref="char:EOLhyphen"/>iestez, voire que vous les aymerez dauantage, puis que le plus parfaict amour est engendrè de la plus belle cognoissance. SIRE, portez donc, s'il vous plait, vostre royalle veue sur mille vers que ie vous donne, &amp; Dieu veuille qu'apres vous estre mirè dans la fidelitè de leur glace, vous faciez admirer vostre bien veillance enuers moy, (honneur ou mes desirs seroient bornes aussi bien que ma felicitè) il est impossible que ne faisant rien qui ne soit louable, vous ne desiriez la louange, on la vous doibt veritablement, &amp; peut estre ne verrez vous de long<g ref="char:EOLhyphen"/>temps francois qui vous puisse payer ceste debte en si be<g ref="char:EOLunhyphen"/>le monoye. Il n'ya point de douceur qui esgalle celle
+<pb facs="tcp:4654:3"/> la louange, puis que l'oreille du grand Dieu ne cherit d'au<g ref="char:EOLhyphen"/>tre melodie. SIRE, ie vous presente icy tout mon trauail de Vingt Mois que i'ay demeurè en Angleterre, &amp; vostre Maiestè verra clairement que la delicatesse ne me le fait point appeller trauail: toutesfois aussi tost que vous le re<g ref="char:EOLhyphen"/>garderez, la memoire de ma peyne disparoistra: pour ce<g ref="char:EOLhyphen"/>ste gloire ie suis tout plein de passion, mais toute autre disgrace me trouuera fort dispose a la patience: ie n'at<g ref="char:EOLhyphen"/>tends point que personne me recommande a vostre Ma<g ref="char:EOLhyphen"/>ieste, &amp; si vous lisez mes vers, vous trouuerès que toute autre recommendation seroit superflue, &amp; que tous ceux de vostre Cour ont beaucoup plus de besoin de vous de<g ref="char:EOLhyphen"/>mander qui ie suis que vous de l'apprendre de leur bou<g ref="char:EOLhyphen"/>che: toute la France attend le iugement que vous ferez de moy afin de le prendre pour reigle. Ainsi, SIRE, ie vous supplye tres humblement auoir pytiè de ma repu<g ref="char:EOLhyphen"/>tation, ce n'est pas que ie vous demande que vous me iu<g ref="char:EOLhyphen"/>giez auec faueur, car la plus seuere iustice m'est la meil<g ref="char:EOLhyphen"/>leure: apres l'ottroy de ce bōheur, s'ilplait a vostre Maiestè ie receuray ses cōmandements par mi Lord D'Aubigny, ou par mi Lord de Hay qui sont les deux de vostre Cour qui cognoissent mieux,</p>
+            <closer>
+               <salute>SIRE</salute>
+               <signed>
+                  <hi>Vostre tres humble &amp; tres obeissant seruiteur,</hi> MAILLIET <hi>Gentilhomme Francois.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="ode">
+            <pb facs="tcp:4654:3"/>
+            <epigraph>
+               <q>
+                  <lg>
+                     <head>Ad <hi>IACOBVM</hi> Regem.</head>
+                     <l>Non commendatus, sed commendabilis adsum:</l>
+                     <l>Cur commendarer noscenti cuncta IACOBO?</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <head>A la louange du Roy de la grande BRETAIGNE.</head>
+            <head>ODE.</head>
+            <lg>
+               <l>COmme a ton los ie ne pretens</l>
+               <l>Peindre moings qu'vn vainqueur du temps:</l>
+               <l>Las! l'humeur meurt a ma visee:</l>
+               <l>Ne m'estonnant de cest effet,</l>
+               <l>Si la Nature t'ayant fait</l>
+               <l>Se trouua bien toute epuisee.</l>
+            </lg>
+            <lg>
+               <l>Elle le fut heureusement</l>
+               <l>Et ie le suis confusement:</l>
+               <l>Sans commencer aucun langage</l>
+               <l>Mes leures ont seichè leurs bords:</l>
+               <l>Nature tarit ses thresors,</l>
+               <l>Mais en acheuant son ouurage.</l>
+            </lg>
+            <lg>
+               <l>Quand je seruirois dans mes vers</l>
+               <l>Le Nectar a tout l'vniuers</l>
+               <l>D'vn coup restraint a ma personne,</l>
+               <l>Pouuant obliger au courrous</l>
+               <l>Et rendre Iupiter ialous</l>
+               <l>Pour me voir donner ce qu'il donne,</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:4"/>
+               <l>Encor ie viendrois irriter</l>
+               <l>Tes graces que ie veux chanter:</l>
+               <l>Car louant celle, &amp; fes merueilles</l>
+               <l>Par qui mon chant commenceroit,</l>
+               <l>Chacune en cholere diroit</l>
+               <l>Ne sommes nous toutes pareilles?</l>
+            </lg>
+            <lg>
+               <l>Toutesfois ie suis emportè</l>
+               <l>D'vn courant de necessitè:</l>
+               <l>Belles Charites, je vous iure</l>
+               <l>Que si ie peche en commençant</l>
+               <l>Vous trouuerez qu'en finissant</l>
+               <l>Ie repare bien ceste iniure.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>IAQVES,</hi> qui n'es pas moings ton Roy.</l>
+               <l>Que des peuples mis soubs ta loy:</l>
+               <l>Oy ma voix qui vers toy s'eslance.</l>
+               <l>Tu luy feras bon iugement</l>
+               <l>Soleil, qui luis incessamment</l>
+               <l>Dans le signe de la Balance.</l>
+            </lg>
+            <lg>
+               <l>Au grand debord de ton scauoir</l>
+               <l>Tant de veritè se fait voir</l>
+               <l>Qu'elle ne peut estre descrite:</l>
+               <l>Et tous les doctes sont tesmoins</l>
+               <l>Qu'il en demeure beaucoup moins</l>
+               <l>Au profond puits de Democrite.</l>
+            </lg>
+            <lg>
+               <l>Estant certain qu'en ce bas lieu</l>
+               <l>Vn Roy doibt representer Dieu,</l>
+               <l>Tu chassas l'ignorant nuage</l>
+               <l>Et t'accomplis tout en effet</l>
+               <l>Sçachant bien que rien d'imparfait</l>
+               <l>Ne pourroit estre son image.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:4"/>
+               <l>Gardant le pourtraict de Pallas</l>
+               <l>Troye ne pouuoit cheoir en bas:</l>
+               <l>Des tiens l'asseurance est supreme</l>
+               <l>Car ils te gardent ô grand Roy</l>
+               <l>Et si ne gardent pas en toy</l>
+               <l>Le pourtraict, mais Minerue mesme.</l>
+            </lg>
+            <lg>
+               <l>Marquons ton esprit nompareil</l>
+               <l>Auec l'hierogliphe dvn oeil:</l>
+               <l>Mais non, l'erreur seroit extreme:</l>
+               <l>L'oeil ne se voit que ches autruy</l>
+               <l>Mais ton esprit voit tout ches luy</l>
+               <l>Et si n'est veu que de luy mesme.</l>
+            </lg>
+            <lg>
+               <l>Vous, qui dites qu'en ces bas lieux</l>
+               <l>On n'oyt les doux accords des Cieux,</l>
+               <l>Que vostre erreur est manifeste!</l>
+               <l>Oyez le parler seulement</l>
+               <l>Et vous oyrrez soudainement</l>
+               <l>Toute l'harmonie celeste.</l>
+            </lg>
+            <lg>
+               <l>Castor, &amp; Pollux, deux flambeaux,</l>
+               <l>Sur les antennes des vaisseaus</l>
+               <l>Presageoient bon port au nauire:</l>
+               <l>
+                  <hi>IAQVES,</hi> qui luit pareillement</l>
+               <l>Du sceptre, &amp; de l'entendement,</l>
+               <l>Tient bien asseuré son Empire.</l>
+            </lg>
+            <lg>
+               <l>Bien plus clair y doibt voir vn Roy</l>
+               <l>Que les peuples qu'il tient soubs soy:</l>
+               <l>La Nature enseigne le mesme</l>
+               <l>En ce que le bas element</l>
+               <l>Est plus espais infiniment</l>
+               <l>Que n'est pas l'element supreme.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:5"/>
+               <l>Auec l'oeil de sa notion</l>
+               <l>
+                  <hi>IAQVES</hi> voit en perfection</l>
+               <l>Que dans les basses creatures</l>
+               <l>Tout ce qu'on trouue de parfait</l>
+               <l>L'autheur de Nature le fait</l>
+               <l>Eclater aux superieures.</l>
+            </lg>
+            <lg>
+               <l>Il voit (&amp; si voit a lafois</l>
+               <l>Que c'est vne leçon aux Roys)</l>
+               <l>Qu'aux mixtes sa sagesse assemble</l>
+               <l>La vertu de chaque element,</l>
+               <l>Trouue aux plantes pareillement</l>
+               <l>Ce que les mixtes ont ensemble.</l>
+            </lg>
+            <lg>
+               <l>Puis il contemple aux animaux</l>
+               <l>Tout le Parfait des vegetaux:</l>
+               <l>Apres ce grand Roy vient ensomme</l>
+               <l>Descouurir auec son flambeau</l>
+               <l>Que l'animal n'a rien de beau</l>
+               <l>Qu'on ne puisse trouuer en l'homme.</l>
+            </lg>
+            <lg>
+               <l>Ayant paracheué ce cours</l>
+               <l>Il s' entretient de ce discours:</l>
+               <l>Ce qu'on voit ailleurs en parcelles</l>
+               <l>Doibt estre tout au nompareil,</l>
+               <l>Aussi scait on que le Soleil</l>
+               <l>A les vertus vniuerselles.</l>
+            </lg>
+            <lg>
+               <l>Au prix d'vn soin laborieux</l>
+               <l>Apollon luy vendit des yeux</l>
+               <l>Dont la clarté luy donne a rire</l>
+               <l>De maint espais aueuglement:</l>
+               <l>Celluy la doibt voir clairement</l>
+               <l>Qui doibt voir sur tout vn Empyre.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:5"/>
+               <l>L'oeil est nourri du plus pur sang</l>
+               <l>Et le Roy qui tient mesme rang</l>
+               <l>Doibt apporter la diligence</l>
+               <l>A s'instruire parfaictement</l>
+               <l>Et nourrir son entendement</l>
+               <l>De la plus pure intelligence.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>IAQVES,</hi> qui luisplus grand par toy</l>
+               <l>Que par la qualité de Roy.</l>
+               <l>Ce n'est pas pour toy que ie tire</l>
+               <l>Limage du royal debuoir</l>
+               <l>Puis qu'on y peut clairement voir</l>
+               <l>Ce qu'aux autres Roys on desire.</l>
+            </lg>
+            <lg>
+               <l>Que tes sceptres sont abatus</l>
+               <l>Au prix des celestes vertus</l>
+               <l>Qui font qu'aucun ne te seconde!</l>
+               <l>Ce n'est qu'vn peu d'or seulement</l>
+               <l>Ou l'oeil contemple vn Diamant</l>
+               <l>Inestimable a tout le monde.</l>
+            </lg>
+            <lg>
+               <l>Tels tes propos, qu'est en chaleur</l>
+               <l>Vne fontaine au voyageur:</l>
+               <l>Aussi c'est bien chose certaine</l>
+               <l>(Et ie ne dis rien de nouueau)</l>
+               <l>Qu'ils sont la belle, &amp; la claire eau</l>
+               <l>Qui vient reiallir d' Hypocrene.</l>
+            </lg>
+            <lg>
+               <l>Nul n'est plein de scauoir, grand Roy</l>
+               <l>Qu'en estant eloignè de toy:</l>
+               <l>Mais on se console en sa peyne</l>
+               <l>Sçachant que ce n'est vn abus</l>
+               <l>Que sans estre loing de Phoebus</l>
+               <l>Phoebè mesme n'est jamais pleine.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:6"/>
+               <l>Mais pour t'approcher, &amp; te voir</l>
+               <l>Si l'on est vuide de scauoir</l>
+               <l>Par vne disgrace commune:</l>
+               <l>O des Roys le plus digne Roy</l>
+               <l>Sifaut il estre aupres de toy</l>
+               <l>Afin d'estre plein de fortune.</l>
+            </lg>
+            <lg>
+               <l>Astre d'ineffable vertu</l>
+               <l>On voit que Pithon abatu</l>
+               <l>Expire a ta clartè premiere:</l>
+               <l>Python c'est la nue d'erreur</l>
+               <l>Ou plustot vne nuict d'horreur</l>
+               <l>Qui s'en fuit deuant ta lumiere.</l>
+            </lg>
+            <lg>
+               <l>Ce monstre estant mort par tes dards</l>
+               <l>(Agreable obiect des regards)</l>
+               <l>Pour n'estre ingratement iniques</l>
+               <l>Ayant vaincu ce grand vainqueur</l>
+               <l>Nous debuons bien a ton honneur</l>
+               <l>Renouueller les ieus Pythiques.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>IAQVES,</hi> l'eguillon du debuoir</l>
+               <l>Nous oblige a les faire voir:</l>
+               <l>Car il est plus que raisonnable</l>
+               <l>O adorable Maiesté</l>
+               <l>Qu'ils soient veus pour la verité</l>
+               <l>S'ils le furent pour vne fable.</l>
+            </lg>
+            <lg>
+               <l>On creut en chaque nation</l>
+               <l>Fille de l'Admiration</l>
+               <l>Celle de qui la face est peinte</l>
+               <l>De tant de diuerses couleurs,</l>
+               <l>Et qu'on scait courriere des pleurs</l>
+               <l>Dont le Ciel rend la terre enceinte.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:6"/>
+               <l>O Roy, qui manifestement</l>
+               <l>Luis en terre celestement:</l>
+               <l>Aussi ta notion supreme</l>
+               <l>Ton scauoir parfaict &amp; diuers</l>
+               <l>Fait bien croire a tout l'vniuers</l>
+               <l>Que tu es le fils de la mesme.</l>
+            </lg>
+            <lg>
+               <l>Iris n'eust ce los, ô grand Roy,</l>
+               <l>Auec plus de raison que toy</l>
+               <l>Car bien qu'vne pluye feconde</l>
+               <l>Soit ce qu'elle annonce aux humains,</l>
+               <l>La pluye d'or cheoit de tes mains</l>
+               <l>Sur les beaus esprits de ce monde.</l>
+            </lg>
+            <lg>
+               <l>Tu t'en es reseruè le soin</l>
+               <l>Qui sur leur aride besoin</l>
+               <l>Haste le cours de tes Pactoles:</l>
+               <l>Et Parnasse, on chante par tout</l>
+               <l>Que tu ne serois point debout</l>
+               <l>Sises mains n'estoient tes deux poles.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>IAQVES</hi> est ton vnique appuy</l>
+               <l>Et chacun scait que c'est a luy</l>
+               <l>A qui tu doibs ta subsistance:</l>
+               <l>Il t'affranchit de l'occident,</l>
+               <l>Bref tu n'es rien que l'accident</l>
+               <l>Et ce Monarque est la substance.</l>
+            </lg>
+            <lg>
+               <l>Muses, vostre celeste Choeur</l>
+               <l>Prend les premiers feux de son coeur</l>
+               <l>Auec ses plus douces oeillades:</l>
+               <l>Il vous est, ô troupeau sçauant,</l>
+               <l>Cella que le chesne viuant</l>
+               <l>Fut iadis aux Hamadryades,</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:7"/>
+               <l>Quelle est sa liberalité</l>
+               <l>Belle &amp; royalle qualité!</l>
+               <l>Mais sa cognoissance l'ordonne:</l>
+               <l>Aux esprits grands &amp; surhumains,</l>
+               <l>Non a ceux qui n'ont que des mains</l>
+               <l>Pour receuoir ce qu'on leur donne.</l>
+            </lg>
+            <lg>
+               <l>Ce bon Roy s'est representè</l>
+               <l>Que la rosee en quantitè</l>
+               <l>Venant cheoir a la pleine Lune</l>
+               <l>Oblige les Roys aux biensfaits,</l>
+               <l>L'Amour du Ciel les ayant faits</l>
+               <l>Pour tousjours en pleine fortune.</l>
+            </lg>
+            <lg>
+               <l>Vn Roy, naissant prend sa rondeur:</l>
+               <l>L'or n'augmente point sa grandeur:</l>
+               <l>L'ame des siens il doibt paroistre:</l>
+               <l>Or nostre ame diuinement</l>
+               <l>Donne a nos corps l'accroissement</l>
+               <l>Sans qu'elle vienne iamais croistre.</l>
+            </lg>
+            <lg>
+               <l>Estant tout pouuoir, la bontè</l>
+               <l>Veut que l'on soit tout volontè:</l>
+               <l>L'honneur s'vnit a la largesse</l>
+               <l>Qui rauit tout de ses appas;</l>
+               <l>D'ailleurs l'Ocean ne peut pas</l>
+               <l>Arriuer a la seicheresse.</l>
+            </lg>
+            <lg>
+               <l>Lá qualitè des puissans Roys</l>
+               <l>Rit de Penie, &amp; de ses loys:</l>
+               <l>Ils ont leur fortune exaltee</l>
+               <l>Iusques au zenith du pouuoir,</l>
+               <l>Si bien qu'on ne les sçauroit voir</l>
+               <l>Sans voir la corne d'Amalthee.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:7"/>
+               <l>Prendre, c'est vne passion;</l>
+               <l>Donner, vne noble action:</l>
+               <l>On voit quelle est sa gloire ensomme</l>
+               <l>Et comme elle eclate en tout lieu:</l>
+               <l>Faisant du bien, on est vn Dieu,</l>
+               <l>Le receuant, on n'est qu'vn homme:</l>
+            </lg>
+            <lg>
+               <l>Grand Roy, tu donnes a foison</l>
+               <l>Mais sans desplaire a la raison:</l>
+               <l>Ce n'est l'humeur, mais bien l'elite</l>
+               <l>Qui fait sans cesse agir tes mains,</l>
+               <l>Et tu ne semes tes beaus grains</l>
+               <l>Que dedans le champ dumerite.</l>
+            </lg>
+            <lg>
+               <l>La Laconie (ou lon dit faux)</l>
+               <l>Iettoit ses fils pleins de defauts</l>
+               <l>Dans la fondriere de Taygete:</l>
+               <l>Qui n'est des Graces ennobly</l>
+               <l>Sent de mèsme que ton oubly</l>
+               <l>Au creux de son fleuue le iette.</l>
+            </lg>
+            <lg>
+               <l>Auprez de <hi>IAQVES</hi> seulement</l>
+               <l>Les vertus ont leur element</l>
+               <l>Et toutes les ames dorees:</l>
+               <l>Non comme aux plages de l'erreur.</l>
+               <l>Ou le Soleil est en horreur</l>
+               <l>Et les tenebres adorees.</l>
+            </lg>
+            <lg>
+               <l>Mais i'ay desia fait deux pour traicts</l>
+               <l>Non pas egallé les beaus traicts</l>
+               <l>Dont l'effort du Ciel fut le père:</l>
+               <l>Mes defauts seruoient de tesmoins</l>
+               <l>Que ie les ferois beaucoup moins</l>
+               <l>Que ie ne me viendrois defaire.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:8"/>
+               <l>Grand Monarque, si ta valeur</l>
+               <l>M'auoit fait part dè sa chaleur,</l>
+               <l>Ie m'esleuerois de la terre</l>
+               <l>Et m'en irois dire au Soleil</l>
+               <l>Qu'il n'a mesme de feu pareil</l>
+               <l>Lors que le Lyon le reserre.</l>
+            </lg>
+            <lg>
+               <l>En toy le Dieu des bataillons</l>
+               <l>Eleue ses plus gros bouillons:</l>
+               <l>Tout periroit deuant ta flame</l>
+               <l>Si la valeur qui vit en toy</l>
+               <l>N'auoit la iustice, &amp; la foy</l>
+               <l>Pour les deux gardes de ton ame.</l>
+            </lg>
+            <lg>
+               <l>Mars, bien qu'il ayt formè ton coeur,</l>
+               <l>Trouueroit son fils son vainqueur:</l>
+               <l>S'il te venoit faire la guerre</l>
+               <l>Il seroit doux deuant ton fiel;</l>
+               <l>La gloire qu'il a dans son Ciel</l>
+               <l>Il la perdroit dessus ta terre.</l>
+            </lg>
+            <lg>
+               <l>Pallas n'a point d'enseignement</l>
+               <l>Qui n'orne ton entendement:</l>
+               <l>La mesme n'est moings animee.</l>
+               <l>Dans ton coeur, son siege e<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ternel,</l>
+               <l>Que quand du cerueau paternel</l>
+               <l>On la vit sortir toute armee.</l>
+            </lg>
+            <lg>
+               <l>Auec ceste double vertu</l>
+               <l>Quels Roys ne dethronnerois tu?</l>
+               <l>Tout se rendroit a ton tonnerre</l>
+               <l>Si tes desirs relligieux</l>
+               <l>Ne visoient plus au gain des Cieux</l>
+               <l>Qu'a la conqueste de la terre.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:8"/>
+               <l>Ceux la chercheroient bien la mort</l>
+               <l>Qui mettroient leur guerrier effort</l>
+               <l>Contre tes forces indomptees:</l>
+               <l>Plus viste que n'est mon parler</l>
+               <l>Tu ferois sacrifice a l'air</l>
+               <l>De la vie de ces Anthees.</l>
+            </lg>
+            <lg>
+               <l>Trois royaumes, que tu repais</l>
+               <l>Du miel d'une eternelle paix,</l>
+               <l>Doiuent bien donner de l'enuie</l>
+               <l>A tant de Royaumes pallis,</l>
+               <l>Mesme a celluy des fleurs de lys</l>
+               <l>Qui n'a qu'vne mourante vie.</l>
+            </lg>
+            <lg>
+               <l>Tes peuples plus heureus centfois</l>
+               <l>D'estre a toy que d'estre alleurs roys,</l>
+               <l>Ne demandent la iouissance</l>
+               <l>D'vn estat plus delicieux,</l>
+               <l>Car Iupin, sans les mettre aux Cieux,</l>
+               <l>N'en a pas mesme la puissance.</l>
+            </lg>
+            <lg>
+               <l>Paix, deesse aux celestes yeux,</l>
+               <l>Tes fleurs embellissent ces lieux:</l>
+               <l>Paix, du paradis la figure,</l>
+               <l>Et toute l'amorce d'Amour,</l>
+               <l>On doibt ton bien heureus seiour</l>
+               <l>A la verge de ce Mercure.</l>
+            </lg>
+            <lg>
+               <l>Peuple, le comble des plaisirs</l>
+               <l>Te doibt bien priuer de desirs:</l>
+               <l>Encor vn heur plus magnifique</l>
+               <l>Naist de la paix de tes beaus iours</l>
+               <l>Puis que Dieu demeure tousiours</l>
+               <l>Dessus la terre pacifique.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:9"/>
+               <l>Des nerfs de <hi>IAQVES</hi> seulement</l>
+               <l>Tu recois tout ton mouuement:</l>
+               <l>Voy ton debuoir, &amp; ne t'esgare:</l>
+               <l>Tu scais bien, si tu n'es brutal,</l>
+               <l>'Quil t'est ce qu'un cheueu fatal</l>
+               <l>Fut a Nisus Roy de Megare.</l>
+            </lg>
+            <lg>
+               <l>Tu ne doibs enuier encor</l>
+               <l>Les possesseurs du siecle d'or:</l>
+               <l>Et s'il fut iadis vne fable:</l>
+               <l>Tes grands biens, &amp; ton doux repos</l>
+               <l>Forcent ta bouche a ces propos</l>
+               <l>Qu'il est maintenant veritable.</l>
+            </lg>
+            <lg>
+               <l>Grand Roy, qui voit ton iugement</l>
+               <l>Te voit agir celestement:</l>
+               <l>Si le Ciel n'esloigne la terre</l>
+               <l>Non plus d'un que d'autre costé,</l>
+               <l>Porus n'est de toy mieux traitté</l>
+               <l>Que ceux que Penie reserre.</l>
+            </lg>
+            <lg>
+               <l>Le plus grand ne t'a pour fauteur</l>
+               <l>Mais tous comme soubs l'Equateur</l>
+               <l>Viuent dessoubs ton regne Auguste:</l>
+               <l>Tu sçais qu'en ce terrestre lieu</l>
+               <l>Vn Roy tient la place de Dieu</l>
+               <l>Et ne le peut s'il n'est bien iuste.</l>
+            </lg>
+            <lg>
+               <l>Le foible ayant a faire au fort</l>
+               <l>Ne craint deuant toyson effort:</l>
+               <l>Et ceste asseurance reserre</l>
+               <l>De voir briser ce coeur felon,</l>
+               <l>Et de t'auoir pour Apollon</l>
+               <l>Si ce Python luy fait la guerre.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:9"/>
+               <l>La justice engeance des cieux</l>
+               <l>N'est pas moings nette, &amp; belle aux yeux</l>
+               <l>Que lors qu'elle te fut donnee</l>
+               <l>Et tu choisirois le cercueil</l>
+               <l>Plustot que les liurer au dueil</l>
+               <l>De voir leur fille abandonnee.</l>
+            </lg>
+            <lg>
+               <l>Ainsi doncques si sagement</l>
+               <l>
+                  <hi>IAQVES</hi> donne son iugement</l>
+               <l>Qu'il semble au Soleil qui deserre</l>
+               <l>Tous les eclats qu'il areceus</l>
+               <l>Sans voir plus long temps le dessus</l>
+               <l>Quil voit le dessous de la terre.</l>
+            </lg>
+            <lg>
+               <l>Apollon se met en courrous</l>
+               <l>Quand ses airs se donnent a tous</l>
+               <l>Ie scay que sa lyre est tachee</l>
+               <l>De l'abus commis tant de fois,</l>
+               <l>Et qu'vn crime s'attache aux doigts</l>
+               <l>Qui l'ont profanement touchee.</l>
+            </lg>
+            <lg>
+               <l>Si ie la manie, Phoebus</l>
+               <l>Tu vois bien que c'est sans abus:</l>
+               <l>Rien que les ames glorieuses</l>
+               <l>Ie ne fay briller dans mes vers,</l>
+               <l>Et ne metz leurs feuillages verds</l>
+               <l>Que soubs des pierres precieuses.</l>
+            </lg>
+            <lg>
+               <l>Ce grand Roy, mon present obiect,</l>
+               <l>Soubs sa haulteur voït tout abiect</l>
+               <l>Et la plus eloquente Muse</l>
+               <l>Y trouuant tous les beaus excez</l>
+               <l>Non pourroit iamaïs dire assez</l>
+               <l>Que par la bouche de l'Excuse.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:10"/>
+               <l>Mais loüons la blanche vertu</l>
+               <l>Dont il est en Ange vestu:</l>
+               <l>Elle rend son coeur diaphane:</l>
+               <l>Et diuinement possedé</l>
+               <l>Montre bien qu'il a succedé</l>
+               <l>A tous les thresors de Diane.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>IAQVES</hi> d'vn courage constant</l>
+               <l>Va la mere perle imitant</l>
+               <l>Qui ne prend d'eau pas vne goute</l>
+               <l>Qui ne soit venue du Ciel:</l>
+               <l>Tous les plaisirs luy sont du fiel</l>
+               <l>Hors ceux que le Ciel veut quil gouste.</l>
+            </lg>
+            <lg>
+               <l>L'Amour, qui de la terre est nè</l>
+               <l>Et qui iamais n'a rien gaignè</l>
+               <l>Que ce qui se colle ala terre,</l>
+               <l>Ne pourroit estre son vainqueur</l>
+               <l>Ny mesme approcher de son coeur</l>
+               <l>Pource que le Ciel le reserre.</l>
+            </lg>
+            <lg>
+               <l>Sa raison ne le peut nommer</l>
+               <l>Du nom d'Amour, mais bien d'amer:</l>
+               <l>Et sa sagesse nous propose</l>
+               <l>Que la folie regne en nous</l>
+               <l>Quand le plus laid monstre de tous</l>
+               <l>S'appelle la plus belle chose.</l>
+            </lg>
+            <lg>
+               <l>De mille plaisirs apparens</l>
+               <l>Il trompe nos yeux adherens</l>
+               <l>Pendant qu'auec nous il seiourne:</l>
+               <l>Et nous ne voyons qu'il est faus</l>
+               <l>Et ne descouurons ses defauts</l>
+               <l>Si ce n'est lors qu'il s'en retourne.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:10"/>
+               <l>Qu'il liure d'ames au trespas</l>
+               <l>Par le poison de ses appas?</l>
+               <l>Il cache vn veritable orage</l>
+               <l>Soubs vn feint calme d'amytiè,</l>
+               <l>Et, grand Roy, ce n'est sans pytiè</l>
+               <l>Que du port tu vois leur naufrage.</l>
+            </lg>
+            <lg>
+               <l>Et peut estre vnique ca bas</l>
+               <l>Victorieux de ses combats</l>
+               <l>Tu t'en eriges le trophee:</l>
+               <l>Bien que le monde soit amer</l>
+               <l>Par la saleure de sa mer</l>
+               <l>Tu passes comme vn autre Alphee.</l>
+            </lg>
+            <lg>
+               <l>I'auoue bien qu'il faut touiour</l>
+               <l>Estre amoureux d'un bel amour:</l>
+               <l>Aymons celluy qui ne nous change</l>
+               <l>De lyons en lieures peureux,</l>
+               <l>Mais qui d'vn changement heureux</l>
+               <l>Fait qu'vn homme deuient vn Ange.</l>
+            </lg>
+            <lg>
+               <l>L'Amour est certes precieux</l>
+               <l>Qui prend sa naissance des Cieux:</l>
+               <l>Grand Roy, qu'il t'eslance de flesches</l>
+               <l>Dont il te blesse heureusement?</l>
+               <l>Ton coeur nauré profondement</l>
+               <l>Entre en paradis par ces breches.</l>
+            </lg>
+            <lg>
+               <l>Grand <hi>IAQVES,</hi> que tu t'embellis</l>
+               <l>Habitant tousiours dans les lis?</l>
+               <l>Tu vis si nettement ensomme</l>
+               <l>Que quand tu quitteras ce lieu</l>
+               <l>Afin de t'approcher de Dieu</l>
+               <l>Tu ne sembleras pas vn homme.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:11"/>
+               <l>L'heresie, dont les esprits</l>
+               <l>Sont lethargiquement surpris;</l>
+               <l>Se sent de toy si fort pressee</l>
+               <l>Que ceste Meduse en mechef</l>
+               <l>N'attend plus qu'a perdre le chef</l>
+               <l>Par le glaiue de ce Persee.</l>
+            </lg>
+            <lg>
+               <l>Elle expire desia soubs toy</l>
+               <l>Braue Champion de la foy</l>
+               <l>A qui tu gaignes la couronne</l>
+               <l>Mettant ses ennemys a bas,</l>
+               <l>Et toutesfois tu ne combas</l>
+               <l>Que des forces qu'elle te donne:</l>
+            </lg>
+            <lg>
+               <l>Grand Roy, ton coeur deuotieux</l>
+               <l>Paye bien ce qu'on doibt aux Cieux:</l>
+               <l>Ta flame pour eux allumee</l>
+               <l>Y monte auec sa nettetè,</l>
+               <l>Au lieu qu'ailleurs l'impuretè</l>
+               <l>Ne leur donne que sa fumee.</l>
+            </lg>
+            <lg>
+               <l>Que l'esprit demeure confus</l>
+               <l>Pensant a bien peindre tes feux</l>
+               <l>Ame royalle, &amp; toute belle!</l>
+               <l>Et quil sent foibles ses efforts</l>
+               <l>Quand il contemple en tes thresors</l>
+               <l>La Nature surnaturelle!</l>
+            </lg>
+            <lg>
+               <l>Quelle Clemence estalles tu?</l>
+               <l>Ceste incomparable vertu</l>
+               <l>Brille en Soleil dedans ton ame:</l>
+               <l>Elle vient reiouir les yeux</l>
+               <l>Auec des rayons gracieux</l>
+               <l>Et ne s'arme iamais de flame.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:11"/>
+               <l>Mais elle passe doucement</l>
+               <l>Par dessus l'acte seulement:</l>
+               <l>Et sa soeur a le coup plus rude</l>
+               <l>Dont les pecheurs sont assenez</l>
+               <l>Lors que les vices forcenéz</l>
+               <l>S'y trouuent auec habitude.</l>
+            </lg>
+            <lg>
+               <l>Quand tu viens employer ses mains</l>
+               <l>Les forfaits son bien inhumains:</l>
+               <l>Tu scais qu'vn mauuais deuient pyre</l>
+               <l>Et s'emporte estant supportè:</l>
+               <l>Faire viure l'impunitè</l>
+               <l>C'est faire mourir vn Empire.</l>
+            </lg>
+            <lg>
+               <l>Labelle Astree, qui grand Roy,</l>
+               <l>Est tousiours vierge aupres de toy:</l>
+               <l>Ne fait voir tes graces suyuies</l>
+               <l>De ce miserable remords</l>
+               <l>D'auoir donné beaucoup de morts</l>
+               <l>Pour auoir sauuè peu de vies.</l>
+            </lg>
+            <lg>
+               <l>Quand la faute a tant de noirceur</l>
+               <l>Soudain dedans son espaisseur</l>
+               <l>Tu lances Themis toute nue</l>
+               <l>Auec vn acier furieux:</l>
+               <l>Ainsi le plus bel oeil des Cieux</l>
+               <l>Forme des verges dans la nue.</l>
+            </lg>
+            <lg>
+               <l>La vertu t'a pour defenseur</l>
+               <l>Et le vice pour punisseur:</l>
+               <l>A ces deux iustement extreme</l>
+               <l>Tu viens rire, &amp; te despiter:</l>
+               <l>Le secours naist de Iupiter</l>
+               <l>Et les foudres partent du mesme.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:12"/>
+               <l>Au bien qu'on dit de toy, l'excez</l>
+               <l>Ne peut iamais auoir d'accez:</l>
+               <l>Grand'ame, belle <hi>PANCHARITE,</hi>
+               </l>
+               <l>Le debuoir enioint qu'a grands flots</l>
+               <l>On face arriuer tout le los</l>
+               <l>Ou le Ciel mit tout le merite.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>IAQVES,</hi> que ce chant abattu</l>
+               <l>Fait de restes a ta vertu?</l>
+               <l>Mon art a ta Nature cede</l>
+               <l>Et la puissance me default</l>
+               <l>De mettre en oeuure comme ïl faut</l>
+               <l>Ce Diamant qui tout excede.</l>
+            </lg>
+            <lg>
+               <l>On trouue assez souuent dequoy</l>
+               <l>Orner de louanges vn Roy:</l>
+               <l>Et le moindre escriuain enserre</l>
+               <l>Vne aulne dans l'entendement</l>
+               <l>S'il doibt mesurer seulement</l>
+               <l>La grandeur de toute sa terre.</l>
+            </lg>
+            <lg>
+               <l>Mais quand il faut tirer aux yeux</l>
+               <l>Ces graces qui viennent des Cieux</l>
+               <l>Iustice, pleine intelligence,</l>
+               <l>Foy, valeur auec Charitè:</l>
+               <l>C'est a faire a la Deitè</l>
+               <l>Qui seule leur donna naissance!</l>
+            </lg>
+            <lg>
+               <l>Nous te les voyons posseder</l>
+               <l>Et tous contraints de te ceder,</l>
+               <l>Dont l'ame demeure rauie:</l>
+               <l>Ces vertus en toy font seiour,</l>
+               <l>Belles estoilles qui touiour</l>
+               <l>Reluisènt au Ciel de ta vie,</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:12"/>
+               <l>Monarque tu n'as qu'a ioüyr</l>
+               <l>Et pour iamais te resiouoir</l>
+               <l>Dans la plus nette iouyssance:</l>
+               <l>Souhaiter quelque plus doux miel</l>
+               <l>Ce seroit demander au Ciel</l>
+               <l>Ce qui n'est point en sa pùissance.</l>
+            </lg>
+            <lg>
+               <l>Ta belle <hi>ANNE</hi> se fait bien voir</l>
+               <l>Le riche effort de son pouuoir:</l>
+               <l>Et ta royalle ame saisie</l>
+               <l>De l'extase de ses appas</l>
+               <l>Trouue que les meilleurs repas</l>
+               <l>Ne sont pas ceux de l'Ambrosie.</l>
+            </lg>
+            <lg>
+               <l>Ie voudrois bien dedans mes vers</l>
+               <l>La peindre aux yeux de l'vniuers:</l>
+               <l>Si n'y peut elle estre tiree:</l>
+               <l>La Louange auec tremblement</l>
+               <l>L'ose commencer seulement</l>
+               <l>Comme Apelles fist Cytheree.</l>
+            </lg>
+            <lg>
+               <l>Mais voicy l'Admiration</l>
+               <l>Dont la force, &amp; l'affection</l>
+               <l>Brillent d'un visible auantage:</l>
+               <l>Elle adiouste maint diuin trait</l>
+               <l>A ce que la Louange a fait</l>
+               <l>Et vient paracheuer l'ouurage.</l>
+            </lg>
+            <lg>
+               <l>Et quel oeil maintenant ne voit</l>
+               <l>Que celluy la se deceuoit</l>
+               <l>Qui soub's des lunetes brunies</l>
+               <l>A restraint les Graces a trois!</l>
+               <l>Voyant <hi>ANNE,</hi> on voit a la fois</l>
+               <l>Que les Graces sont infinies.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:13"/>
+               <l>Grand Roy, tu te peux bien vanter</l>
+               <l>Que les regards de Iupiter</l>
+               <l>Ne sçauroient pas voir dauantage:</l>
+               <l>Iunon n'espand vn plus beau iour</l>
+               <l>Quand mesmè les yeux de l'Amour</l>
+               <l>Seroient iuges de son visage.</l>
+            </lg>
+            <lg>
+               <l>Mais a grand peyne i'apercoy</l>
+               <l>Le chef d'oeuure d'Anne &amp; de toy</l>
+               <l>Tant il me iette d'estincelles:</l>
+               <l>Si bïen que par vn tel excez</l>
+               <l>Chacun le recognoit assez</l>
+               <l>L'effect de deux causes si belles.</l>
+            </lg>
+            <lg>
+               <l>Il fera croire en toutes parts</l>
+               <l>Que le Ciel ne garde plus Mars:</l>
+               <l>Que son effroyable tonnerre</l>
+               <l>Donne la palleur a tous lieux,</l>
+               <l>Et s'il fut vne fable aux Cieux,</l>
+               <l>Quil est veritable sur terre.</l>
+            </lg>
+            <lg>
+               <l>Il verra le danger, riant</l>
+               <l>Comme il feroit, se mariant:</l>
+               <l>Aussi, courtisant la Memoire,</l>
+               <l>Le peril vaincu de son coeur</l>
+               <l>Viendra marier son vaincqueur</l>
+               <l>Auec vne immortelle gloire.</l>
+            </lg>
+            <lg>
+               <l>Tout le plus des perfections</l>
+               <l>N'esgalle que ses actions:</l>
+               <l>Et Dieu! quelle heureuse planete</l>
+               <l>Eclairera sur les humains</l>
+               <l>S'il te vient rapporter des mains</l>
+               <l>Aussi bien comme de la teste.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:13"/>
+               <l>Tous les coeurs demandent a Dieu</l>
+               <l>Que <hi>CHARLES</hi> ne prenne ton lieu</l>
+               <l>Qu'apres que le viellard de Grece</l>
+               <l>Sera surmonté de tes ans</l>
+               <l>Aussi bien comme nostre temps</l>
+               <l>Te voit vainqueur de sa sagesse.</l>
+            </lg>
+            <lg>
+               <l>Maint gros volume est presenté</l>
+               <l>A ton oeil pere de clarté:</l>
+               <l>Ceste quantité qui t'approche</l>
+               <l>Me m'espouuante aucunement</l>
+               <l>Puis que tu scais qu'vn Djamant</l>
+               <l>Vaut mieux que la plus grande roche.</l>
+            </lg>
+            <lg>
+               <l>Vn Cygne eclate vjuement</l>
+               <l>Entre les feux du Firmament:</l>
+               <l>Si Mailliet, qui chante ta gloire,</l>
+               <l>Est vn Cygne, &amp; tel creu de toy,</l>
+               <l>Fay luy cest honneur, ô grand Roy,</l>
+               <l>Qu'il luise au Ciel de ta memoire.</l>
+            </lg>
+            <lg>
+               <l>Vne incomparable ferueur</l>
+               <l>Luy naistroit de tant de faueur:</l>
+               <l>Si ce vent souffloit dans ses voyles</l>
+               <l>O des Roys le plus glorieux</l>
+               <l>Sa Muse sans baisser les yeux</l>
+               <l>Ne pourroit point voir les estoilles.</l>
+            </lg>
+            <closer>
+               <signed>Mailliet.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:4654:14"/>
+            <pb facs="tcp:4654:14"/>
+            <head>A la louange de la Reyne de la <hi>Grande Bretaigne.</hi> STANSES.</head>
+            <lg>
+               <l>REyne, ce nom qu'on croit ne taire rien</l>
+               <l>Ne dit pourtant la moytié de ton bien:</l>
+               <l>Car il ne fait que hausser ta personne</l>
+               <l>Sur les corps seulement,</l>
+               <l>Et te montrer adorable en ton thronne</l>
+               <l>Encor mortellement.</l>
+            </lg>
+            <lg>
+               <l>Mais ton esprit de nul autre compris</l>
+               <l>Qui ta gaigné le sceptre des esprits</l>
+               <l>Te graue en Royne au coeur de la Memoire</l>
+               <l>Qui te gardant pour soy</l>
+               <l>Fait confesser a la voix de sa gloire</l>
+               <l>Qu'elle acquiert plus que toy,</l>
+            </lg>
+            <lg>
+               <l>Encor c'est peu au prix de ta bontè,</l>
+               <l>De ta sagesse, &amp; de ta pietè,</l>
+               <l>Qui toutes trois te font voir sans seconde</l>
+               <l>Au pourpris de ce lieu:</l>
+               <l>Les autres dons t'ornent deuant le monde</l>
+               <l>Et ceux cy deuant Dieu.</l>
+            </lg>
+            <lg>
+               <l>Quelle louange est ce qu'on ne doibt pas</l>
+               <l>Au rauissant aspect de tant d'appas?</l>
+               <l>Mais si fault il que l'humaine foiblesse</l>
+               <l>Accorde franchement</l>
+               <l>Que du seul Ciel la parfaicte richesse</l>
+               <l>Feroit ce payement.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:4654:15"/>
+               <l>Et toutesfois ie puis m'entretenir</l>
+               <l>Du glorieux, &amp; sucrè souuenir</l>
+               <l>Qu'vne francoise, &amp; royalle merueille</l>
+               <l>Ne trouuoit allechant</l>
+               <l>Aucun rapport que luy faisoit l'oreille</l>
+               <l>Fors celluy de mon chant.</l>
+            </lg>
+            <lg>
+               <l>I'ay pour son los bien souuent de l'excez</l>
+               <l>Mais pour le tien je n'auray point affez:</l>
+               <l>Et ie demens mainte ame depouruëue</l>
+               <l>Des rayons du scauoir,</l>
+               <l>Car s'il est vray que tu peux estre veue</l>
+               <l>La Vertu se peult voir.</l>
+            </lg>
+            <lg>
+               <l>En toy Diane asseure les thresors</l>
+               <l>Dont la Nature estonne le dehors:</l>
+               <l>Et par raison il doibt estre loisible</l>
+               <l>En voyant ta beautè</l>
+               <l>De ne donner le titre d'inuisible</l>
+               <l>A la Diuinitè.</l>
+            </lg>
+            <closer>
+               <signed>Mailliet.</signed>
+            </closer>
+            <pb facs="tcp:4654:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
